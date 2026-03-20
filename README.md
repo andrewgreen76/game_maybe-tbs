@@ -1,4 +1,7 @@
-# Strategy game. No name. No original premise so far. By Blue Beacon Games.
+# A strategy game by Blue Beacon Games. See if you can talk me into a different genre.
+
+- So far no name.
+- So far no original premise.
 
 Participants needed:
 - Lead Game Designer: filled (me) 
@@ -11,12 +14,13 @@ Participants needed:
 - Sound Design: me, open slots (unpaid work)
 - Music: me, open slots
 
-I definitely want it to have:
+I definitely want:
 - rapid prototyping
 - multiplayer
 - literary value
 - naval theme / Odyssean story / adventure
 - heavy rewards
+- unique features
 
 Options:
  - with an engine
