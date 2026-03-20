@@ -1,17 +1,27 @@
-# A strategy game by Blue Beacon Games. See if you can talk me into a different genre.
+# If you want to work on a video game, I have a game project for you.
 
-- So far no name.
-- So far no original premise.
+NOTICE: Work is unpaid. Sorry.
+
+If you are looking to break into the video game industry or you are a vet looking to kill time or keep your skills sharp, join me.
+
+- Work is unpaid. Again, sorry.
+- Experience required: zero to infinity.
+- We can do remote, but if you live in the Bay Area, let's get together, hang out, and work on the game!
+- This is a strategy game, so see if you can talk me into a different genre.
+- So far no name for the game.
+- So far no original premise for the game.
+- The project has to be rather simple, not necessarily technically impressive.
 
 Participants needed:
 - Lead Game Designer: filled (me) 
-- Additional Game Designers: open slots (unpaid work)
-- Programming (mechanics, multiplayer): me, open slots (unpaid work)
-- Visual Art: me, open slots (unpaid work), AI
-- Map Design: open slots (unpaid work)
-- Narrative: open slots (unpaid work)
-- Dialogue: open slots (unpaid work)
-- Sound Design: me, open slots (unpaid work)
+- Additional Game Designers: open slots
+- Programming (mechanics, multiplayer): me, open slots
+- Visual Art: me, open slots, AI
+- Map Design: open slots
+- Quest Design: open slots
+- Narrative: open slots
+- Dialogue: open slots
+- Sound Design: me, open slots
 - Music: me, open slots
 
 I definitely want:
