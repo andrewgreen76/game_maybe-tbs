@@ -16,7 +16,7 @@ Participants needed:
 - Lead Game Designer: filled 
 - Additional Game Designers: open slots
 - Programming (mechanics, multiplayer): open slots
-- Visual Art: open slots, AI
+- Visual Art: open slots
 - Map Design: open slots
 - Quest Design: open slots
 - Narrative: open slots
