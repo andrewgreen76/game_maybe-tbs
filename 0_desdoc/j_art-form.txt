@@ -4,14 +4,16 @@ Art :
 =====================================================
 
 Look:
- . style: simple => sprites, crude
- . strategy game => isometric
- => a la Disciples
+ . style: simple prototype => sprites, crude
+ . strategy game - a la Heroes of Might and Magic 1 => orthogonal - simpler
+ => HoMM-style maps, sprites
+ . Diablo-style HUD (buttons, features)
+ . would be nice to have the "Schaeffer brothers" kind of visual art style
+ . a la Disciples - doing iso may be a bit of a pain
+
+ |
  . blocky (multi-pixel squares to emulate large pixels on 80s - 90s systems)
  . 64-256 -color palette (HoMM or Hexen) 
-
-
-COME UP WITH SOME SWATCHES/SAMPLES. 
 
 
 [
