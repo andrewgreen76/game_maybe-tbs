@@ -29,8 +29,11 @@ Dialogue:
 ===================================================================================
 
 Main character development:
- . emo_poet_tastes
- . all-the-answers
+ . mildly emotional, opinionated, biased, vocal about own tastes
+ . poetic
+ . a seeker of "all of the answers"
+ . cynical
+ . experienced
 
 Themes:
  . child abuse
