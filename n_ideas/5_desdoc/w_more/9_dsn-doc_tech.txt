@@ -31,10 +31,6 @@ __________________________________________________
   - one difficulty level - hard 
   - bare-minimum start
  
-- Narrative - the player(s) create it :
-  - conflict
-  - alliances 
-  - betrayal
 
 Other core elements : 
 - One long mission/scenario play (keep playing after "losing") 

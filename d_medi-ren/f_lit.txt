@@ -1,0 +1,47 @@
+
+Mini-stories:
+ v chases
+ v hunger
+ v violence
+ v gets jumped on, viciously kills a gang member, pursues the others, collects the loot, rationalizes the loss of their lives.
+ |
+Items in stories:
+ . alcohol
+
+===================================================================================
+
+March 24th, 1296. I do not know what time it is.
+
+Just as I resolved a week ago, today is the day I would leave this place. There's definitely no future for me here and I do have an inkling of what a better life can be. I've saved up about five hundred pieces and managed to procure two thousand and five hundred more. Not a bad score! Something good has to come from this wretched place, wouldn't you say? This should last me about a month. That means I will have to do something about my predicament during that month.
+
+===================================================================================
+
+Main story:
+ . steals gold from parents, runs away, encounters [mini-stories], befriends and integrates into a defenseless community, found a people to fight for, finds a new home, travels anyway, 
+
+===================================================================================
+
+Dialogue:
+ . meeting Fermina. ("If you have to survive instead of living, you shouldn't have to survive alone.")
+ . "This is not right! ... What problem will it solve?!"
+ . "You can't do this!"
+
+===================================================================================
+
+Main character development:
+ . emo_poet_tastes
+ . all-the-answers
+
+Themes:
+ . child abuse
+ . existentialism (self-worth / self-searching)
+
+===================================================================================
+===================================================================================
+===================================================================================
+
+And I've just had it with being surrounded by the same faces, the same strangers every day - both at home and at work. And that lasted for too many years.
+
+In all honesty, I do not even have a good plan. But this just can't keep happening. 
+
+_
